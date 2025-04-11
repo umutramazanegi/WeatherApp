@@ -1,0 +1,12 @@
+C:\Github\WeatherApp\WeatherApp\WeatherApp\bin\Debug\WeatherApp.exe.config
+C:\Github\WeatherApp\WeatherApp\WeatherApp\bin\Debug\WeatherApp.exe
+C:\Github\WeatherApp\WeatherApp\WeatherApp\bin\Debug\WeatherApp.pdb
+C:\Github\WeatherApp\WeatherApp\WeatherApp\obj\Debug\WeatherApp.csproj.AssemblyReference.cache
+C:\Github\WeatherApp\WeatherApp\WeatherApp\obj\Debug\WeatherApp.Form1.resources
+C:\Github\WeatherApp\WeatherApp\WeatherApp\obj\Debug\WeatherApp.Properties.Resources.resources
+C:\Github\WeatherApp\WeatherApp\WeatherApp\obj\Debug\WeatherApp.csproj.GenerateResource.cache
+C:\Github\WeatherApp\WeatherApp\WeatherApp\obj\Debug\WeatherApp.csproj.CoreCompileInputs.cache
+C:\Github\WeatherApp\WeatherApp\WeatherApp\obj\Debug\WeatherApp.exe
+C:\Github\WeatherApp\WeatherApp\WeatherApp\obj\Debug\WeatherApp.pdb
+C:\Github\WeatherApp\WeatherApp\WeatherApp\bin\Debug\Newtonsoft.Json.dll
+C:\Github\WeatherApp\WeatherApp\WeatherApp\obj\Debug\WeatherApp.csproj.Up2Date
